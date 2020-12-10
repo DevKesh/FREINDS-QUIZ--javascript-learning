@@ -1,4 +1,4 @@
-##FREINDS-QUIZ-javascript-learning
+## FREINDS-QUIZ-javascript-learning
 
 ## Its's basically a quiz created for understanding Javascript concepts like  : 
 
